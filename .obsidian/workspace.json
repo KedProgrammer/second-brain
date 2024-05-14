@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "2197345994ecd196",
+    "type": "split",
+    "children": [
+      {
+        "id": "96eb9c0ded3a4dab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "435b45452cec0988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/notes/linux/commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bf635fcb9fe0b9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ebc8535198364d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d1ae630b57d76c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7a192d0cdb9084f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7cc373515e723b90",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9c40319b33568139",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1768202cf6854cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da1c8c1e1ab16bb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "zettelkasten/notes/linux/commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "776b99f24f6c55bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "zettelkasten/notes/linux/commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc380e59058a2a9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0e3621665cad92c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "zettelkasten/notes/linux/commands.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "435b45452cec0988",
+  "lastOpenFiles": [
+    "zettelkasten/notes/personal/Daniel's manifesto.md",
+    "zettelkasten/notes/personal",
+    "zettelkasten/reviewed/Daniel's manifesto.md",
+    "zettelkasten/notes/rails/rails features.md",
+    "zettelkasten/notes/rails",
+    "zettelkasten/notes/yello/Yello.md",
+    "zettelkasten/notes/yello",
+    "zettelkasten/notes/git/git_advices.md",
+    "zettelkasten/notes/git",
+    "zettelkasten/notes/vim/vim.md",
+    "zettelkasten/notes/vim",
+    "zettelkasten/reviewed/vim.md",
+    "zettelkasten/reviewed/rails features.md",
+    "zettelkasten/reviewed/git_advices.md",
+    "zettelkasten/reviewed/Yello.md",
+    "zettelkasten/inbox/Daniel's manifesto.md~",
+    "zettelkasten/inbox/Daniel's manifesto.md",
+    "zettelkasten/inbox/rails features.md",
+    "zettelkasten/inbox/Yello.md",
+    "zettelkasten/notes/linux/commands.md~",
+    "zettelkasten/inbox/vim.md",
+    "zettelkasten/inbox/git_advices.md",
+    "zettelkasten/notes/aws/rds-aws.md",
+    "zettelkasten/notes/aws",
+    "zettelkasten/notes/english/english words.md",
+    "zettelkasten/notes/english",
+    "zettelkasten/reviewed/rds-aws.md",
+    "zettelkasten/reviewed/english words.md",
+    "zettelkasten/inbox/english words.md",
+    "config-files.md",
+    "zettelkasten/inbox/linux.md",
+    "zettelkasten/inbox/rds-aws.md",
+    "zettelkasten/notes/linux/commands.md",
+    "zettelkasten/notes/linux",
+    "zettelkasten/reviewed/obsidian7.md",
+    "zettelkasten/notes/ruby/obsidian7.md",
+    "Sin título.canvas"
+  ]
+}
