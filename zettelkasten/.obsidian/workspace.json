@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/rails/rails features.md",
+                "file": "notes/aws/rds-aws.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/rails/rails features.md",
+                "file": "notes/aws/rds-aws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/rails/rails features.md",
+                "file": "notes/aws/rds-aws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/rails/rails features.md"
+                "file": "notes/aws/rds-aws.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "4b8074aa61fc518d",
   "lastOpenFiles": [
+    "notes/aws/rds-aws.md~",
+    "test2.png",
+    "notes/aws/1715728917-WBLQ.md",
+    "test1.png",
+    "notes/aws/1715728613-XPIC.md",
+    "notes/rails/rails features.md",
     "notes/personal/Daniel's manifesto.md",
     "notes/linux/commands.md",
     "notes/git/git_advices.md",
