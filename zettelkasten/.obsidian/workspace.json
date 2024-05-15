@@ -148,8 +148,9 @@
   },
   "active": "4b8074aa61fc518d",
   "lastOpenFiles": [
-    "testing!/testing.md~",
     "testing!/testing.md",
+    "notes/aws/rds-aws.md",
+    "testing!/testing.md~",
     "testing2!",
     "testing!",
     "notes/aws/rds-aws.md~",
@@ -161,7 +162,6 @@
     "notes/personal/Daniel's manifesto.md",
     "notes/linux/commands.md",
     "notes/git/git_advices.md",
-    "notes/english/english words.md",
-    "notes/aws/rds-aws.md"
+    "notes/english/english words.md"
   ]
 }
