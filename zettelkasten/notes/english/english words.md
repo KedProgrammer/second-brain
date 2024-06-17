@@ -19,3 +19,6 @@
 - pillory
 - seize: take control of something
 - stripping: remove all coverigns of something
+- burgeoning: something important that is raising up among crow
+- scare: lack of something
+- striving: to put eforth on something
